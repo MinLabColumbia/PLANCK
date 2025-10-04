@@ -1,2 +1,6 @@
 # PLANCK
-Code repo for PLANCK: super-multiplex optical imaging without labeling 
+© 2023 The Trustees of Columbia University in the City of New York. The codes and data in this work may be reproduced, distributed, and otherwise exploited for academic non-commercial purposes only. To obtain a license to the codes and data in this work for commercial purposes, please contact Columbia Technology Ventures at techventures@columbia.edu.
+
+This is the github repository for PLANCK: super-multiplex optical imaging without labeling.
+
+
