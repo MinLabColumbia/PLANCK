@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+model_checkpoints/
+__MACOSX/
+.DS_Store
+.env

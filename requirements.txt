@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+mat73
+opencv-python
+torch
+torchvision
+torchmetrics
+scikit-learn
+piq
+tqdm
+seaborn
+matplotlib
+imutils
