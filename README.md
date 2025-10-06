@@ -51,7 +51,7 @@ Key defaults and design choices
 - Default hyperparameters: batch_size=16, pretrain_epochs=50, num_epochs=200, lambda_L2=500.
 - Checkpoint saving: models are saved under `model_checkpoints/` by default.
 
-Quick start
+Demo
 -----------
 1. Create a Python environment and install dependencies. Installing `torch` should follow the instructions for your CUDA version. Example (CPU-only):
 
@@ -81,8 +81,9 @@ python src/srs_maldi_prediction/train.py
 python src/srs_maldi_prediction/prediction.py
 ```
 
-
-
+Expected results
+-----------
+Prediction results and evaluation metrics.
 
 
 
