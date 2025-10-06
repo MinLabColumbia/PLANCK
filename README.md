@@ -3,7 +3,7 @@
 
 Overview
 --------
-This is repository for PLANCK: super-multiplex optical imaging without labeling.
+This is repository for manuscript "PLANCK: super-multiplex optical imaging without labeling".
 It contains codes for label free multiplex imaging using vibrational imaging (IR and SRS) to predict MALDI imaging data:
 - A classical machine-learning pipeline (PLS) that predicts MALDI from IR spectra. This is implemented as a simple script for reproducible runs.
 - A self-designed deep-learning pipeline (Hyperpix2pix) based on pix2pix that predicts MALDI from SRS images, with specific optimization for hyperspectral image prediction. This is provided as a package under `src/srs_maldi_prediction/` and includes training and prediction utilities
