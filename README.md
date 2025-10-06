@@ -30,7 +30,7 @@ What it does:
 - Saves the trained model to `model_checkpoints/` and provides a separate prediction/evaluation script.
 
 
-Deep learning (SRS→MALDI) — quick summary
+SRS→MALDI (DL, Hyperpix2pix) — quick summary
 ----------------------------------------
 
 Location: `src/srs_maldi_prediction/` (package)
