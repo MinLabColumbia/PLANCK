@@ -44,13 +44,6 @@ What it contains:
 - `prediction.py` — checkpoint loading, prediction, and evaluation utilities (notebook-style `evaluate` is used).
 - `config.py` — default paths and hyperparameters (DATA_DIR, MODEL_DIR, default hyperparams).
 
-Key defaults and design choices
------------------------------
-- Patch size default: 512.
-- Train/validation split: 85/15 (fixed seed for reproducibility).
-- Default hyperparameters: batch_size=16, pretrain_epochs=50, num_epochs=200, lambda_L2=500.
-- Checkpoint saving: models are saved under `model_checkpoints/` by default.
-
 Demo
 -----------
 1. Create a Python environment and install dependencies. Installing `torch` should follow the instructions for your CUDA version. Example (CPU-only):
