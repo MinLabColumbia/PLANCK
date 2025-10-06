@@ -46,7 +46,7 @@ What it contains:
 
 Demo
 -----------
-1. Create a Python environment and install dependencies. Installing `torch` should follow the instructions for your CUDA version. Example (CPU-only):
+1. Create a Python environment and install dependencies. Installing `torch` should follow the instructions for your CUDA version. Example:
 
 ```bash
 python -m venv venv
