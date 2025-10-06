@@ -27,7 +27,7 @@ What it does:
 - Loads IR and MALDI .npy files (full images or flattened H*W x C arrays).
 - Optionally applies the exp(x) - 1 transform to MALDI values (enabled by default in the scripts).
 - Trains a Partial Least Squares regression model using scikit-learn's `PLSRegression`.
-- Saves the trained model to `model_checkpoints/` and provides a separate prediction/evaluation script.
+- Predict maldi data based on trained model or saved model checkpoint.
 
 
 SRS→MALDI (DL, Hyperpix2pix) — quick summary
