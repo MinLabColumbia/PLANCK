@@ -1,0 +1,3 @@
+The pls model checkpoint is too large to upload in github.
+Please refer to https://drive.google.com/drive/folders/1oFAv9IpWVsCB3Q-4iisf68yAFRxFbegV?usp=drive_link for model requests.
+
